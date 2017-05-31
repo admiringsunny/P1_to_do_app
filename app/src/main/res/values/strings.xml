@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Do App</string>
+
+
+    <string name="TaskTitleHint">Title</string>
+    <string name="TaskDescHint">Description</string>
+
+    <string name="dialogPosBtn">SAVE</string>
+    <string name="dialogNegBtn">CANCEL</string>
+
+</resources>
